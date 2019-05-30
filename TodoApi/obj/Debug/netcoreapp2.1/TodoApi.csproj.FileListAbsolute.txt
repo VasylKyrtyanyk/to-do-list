@@ -1,0 +1,14 @@
+D:\Reposreact\todolist\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.csprojAssemblyReference.cache
+D:\Reposreact\todolist\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.csproj.CoreCompileInputs.cache
+D:\Reposreact\todolist\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.RazorAssemblyInfo.cache
+D:\Reposreact\todolist\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.RazorAssemblyInfo.cs
+D:\Reposreact\todolist\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.AssemblyInfoInputs.cache
+D:\Reposreact\todolist\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.AssemblyInfo.cs
+D:\Reposreact\todolist\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.deps.json
+D:\Reposreact\todolist\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.runtimeconfig.json
+D:\Reposreact\todolist\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.runtimeconfig.dev.json
+D:\Reposreact\todolist\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.dll
+D:\Reposreact\todolist\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.pdb
+D:\Reposreact\todolist\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.RazorTargetAssemblyInfo.cache
+D:\Reposreact\todolist\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.dll
+D:\Reposreact\todolist\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.pdb
